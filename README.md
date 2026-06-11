@@ -79,5 +79,5 @@ Created interactive charts including:
 This project demonstrates practical Excel skills used in entry-level Data Analyst roles, including data organization, analysis, visualization, and dashboard creation.
 
 ## Author
-ANMOL JANA
+
 Anmol Jana
